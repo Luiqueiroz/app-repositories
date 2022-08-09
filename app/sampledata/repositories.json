@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 522726643,
+      "name": "BusinessCard",
+      "owner": {
+        "login": "Luiqueiroz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90661435?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/Luiqueiroz/BusinessCard",
+      "description": "description"
+    },
+    {
+      "id": 505669458,
+      "name": "dio-desafio-github-primeiro-repositorio",
+      "owner": {
+        "login": "Luiqueiroz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90661435?v=4"
+      },
+      "html_url": "https://github.com/Luiqueiroz/dio-desafio-github-primeiro-repositorio",
+      "description": "Desafio de projeto sobre o Git/GitHub",
+      "stargazers_count": 0,
+      "language": "null"
+    },
+    {
+      "id": 505653528,
+      "name": "livro_receita",
+      "owner": {
+        "login": "Luiqueiroz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/90661435?v=4"
+      },
+      "html_url": "https://github.com/Luiqueiroz/livro_receita",
+      "description": "Meu livro de receita",
+      "stargazers_count": 0,
+      "language": "null"
+    },
+    {
+    "id": 520330542,
+    "name": "Soccer_News",
+    "owner": {
+      "login": "Luiqueiroz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90661435?v=4"
+    },
+    "html_url": "https://github.com/Luiqueiroz/Soccer_News",
+    "description": "description",
+    "stargazers_count": 0,
+    "language": "java"
+    }
+
+    ]
+  }
